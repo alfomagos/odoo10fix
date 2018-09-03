@@ -1,0 +1,6 @@
+1. Impuesto sobre venta 15%
+2. Cambio en el reporte a etiquetas "12 a 15% de ISV" y "Rebaja por Descuento"
+3. Agregar un nuevo campo a la tabla de facturas ("habilitado") mediante script
+4. Actualizar todos los registros con el valor de 1
+5. Cambiar el dataset de la conexiòn
+
